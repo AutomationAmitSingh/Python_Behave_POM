@@ -1,0 +1,6 @@
+.idea/*
+allure-report/*
+failed_scenarios_screenshots/*
+Reports/*
+CWC.log
+geckodriver.log
